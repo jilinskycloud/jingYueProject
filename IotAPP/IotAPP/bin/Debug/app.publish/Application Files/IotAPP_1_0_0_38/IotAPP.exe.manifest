@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="IotAPP.exe" version="1.0.0.38" publicKeyToken="724eca6e07b43a9d" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="IotAPP" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="IotAPP.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IotAPP.exe" size="727552">
+      <assemblyIdentity name="IotAPP" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>SKICFQj2dlQEPj3R7DH9ORCk7kKq40Dnb9vvD9OxMw0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="IotAPP.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-NFOPBV7\AL33Z-G33" issuerKeyHash="85c0ae00fe457602d81bd066747218c092a2ffe9" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>GWtMwZDxxzpSjv5R6b4QV6oj4C7PWbBTI+ri9aWPpSc=</DigestValue></Reference></SignedInfo><SignatureValue>bdVzJa/7BJ7UOljV2rtYWJXi56wvFocoWzCh1P5OV8HhfGGiRXPU7yys7Zaetzy+EtH1+traf9Hqe1dR/xconEumOgmMvGBQlSVZjZUZ5XnSsdOaUZQNZu9lnv+KbCNr3ZwVY3Jgyvw6MKlzpd9DBq5aLjacjuaCrFNhwhl9jQ8=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>1o3kq8ApmJPbXiypNYXDVvyWjdgEtK4xqdls+M8y328I65cPLbFl7ao6IuNeSfZcllBIE8sKoMcw0CNRiUvn52Or0BTU15B78ruWydOTAIr9HQ6zts+7c2t4G+pdkf/+RvtfA/9Z7gOEJQkhsNM57jH5Q/mrLldampZ7bzsC2A0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="27a58fa5f5e2ea2353b059cf2ee023aa5710bee951fe8e523ac7f190c14c6b19" Description="" Url=""><as:assemblyIdentity name="IotAPP.exe" version="1.0.0.38" publicKeyToken="724eca6e07b43a9d" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-NFOPBV7\AL33Z-G33</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>ABI3hsOlWk2vByL51oGgzXj3PbPQjc/i3zTudBdnhW4=</DigestValue></Reference></SignedInfo><SignatureValue>chdlB09VDYU1xmkdHfh+29zfoQJ4pdkU5/fodGXwsJOVdDZLBuN4mN1szYz4aCccwxk24Me0HIYZPjJ3s7jfTbv1YuvHWVM6x96DOAUMAeeYtIALGgqeYXpmVWL2yagDnJx/YUu2x+PPu7oM2f8a8hUUl9/SbIgo+HNwMAt6bhQ=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>1o3kq8ApmJPbXiypNYXDVvyWjdgEtK4xqdls+M8y328I65cPLbFl7ao6IuNeSfZcllBIE8sKoMcw0CNRiUvn52Or0BTU15B78ruWydOTAIr9HQ6zts+7c2t4G+pdkf/+RvtfA/9Z7gOEJQkhsNM57jH5Q/mrLldampZ7bzsC2A0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB/TCCAWagAwIBAgIQSYUTKJPMb7BPEZnzrXw0UjANBgkqhkiG9w0BAQsFADA9MTswOQYDVQQDHjIARABFAFMASwBUAE8AUAAtAE4ARgBPAFAAQgBWADcAXABBAEwAMwAzAFoALQBHADMAMzAeFw0yMTA2MjYxMDQ4NDNaFw0yMjA2MjYxNjQ4NDNaMD0xOzA5BgNVBAMeMgBEAEUAUwBLAFQATwBQAC0ATgBGAE8AUABCAFYANwBcAEEATAAzADMAWgAtAEcAMwAzMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDWjeSrwCmYk9teLKk1hcNW/JaN2AS0rjGp2Wz4zzLfbwjrlw8tsWXtqjoi415J9lyWUEgTywqgxzDQI1GJS+fnY6vQFNTXkHvyu5bJ05MAiv0dDrO2z7tza3gb6l2R//5G+18D/1nuA4QlCSGw0znuMflD+asuV1qalntvOwLYDQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAKJFCEADYI5rI4eicI/+Oj6kjMDVti3qXz3C7Stb0D6uk8tyETH3ae816x7vJJi6uwQwMQdsDACFhwx9g0wW1PH3mTxu3QKDLpp0NORHC4vU2G/z6OSD0xdNhuipeFhvr/RZiSGkBu02GyKza88uErOZow2Zu13j65SKGX6Rcl5m</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

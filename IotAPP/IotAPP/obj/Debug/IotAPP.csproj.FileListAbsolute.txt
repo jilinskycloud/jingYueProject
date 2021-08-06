@@ -1,0 +1,205 @@
+D:\jiangge proj\Latest\IotAPP\IotAPP\bin\Debug\IotAPP.exe.config
+D:\jiangge proj\Latest\IotAPP\IotAPP\bin\Debug\IotAPP.exe
+D:\jiangge proj\Latest\IotAPP\IotAPP\bin\Debug\IotAPP.pdb
+D:\jiangge proj\Latest\IotAPP\IotAPP\obj\Debug\IotAPP.csprojResolveAssemblyReference.cache
+D:\jiangge proj\Latest\IotAPP\IotAPP\obj\Debug\IotAPP.Main.resources
+D:\jiangge proj\Latest\IotAPP\IotAPP\obj\Debug\IotAPP.Properties.Resources.resources
+D:\jiangge proj\Latest\IotAPP\IotAPP\obj\Debug\IotAPP.csproj.GenerateResource.Cache
+D:\jiangge proj\Latest\IotAPP\IotAPP\obj\Debug\IotAPP.exe
+D:\jiangge proj\Latest\IotAPP\IotAPP\obj\Debug\IotAPP.pdb
+D:\jiangge proj\Latest\IotAPP\IotAPP\obj\Debug\IotAPP.Child_home.resources
+D:\jiangge proj\Latest\IotAPP\IotAPP\obj\Debug\IotAPP.Child_history.resources
+D:\jiangge proj\Latest\IotAPP\IotAPP\obj\Debug\IotAPP.Child_settings.resources
+D:\jiangge proj\Latest\IotAPP\IotAPP\obj\Debug\IotAPP.Child_charts.resources
+D:\jiangge proj\Latest\IotAPP\IotAPP\bin\Debug\IotAPP.exe.manifest
+D:\jiangge proj\Latest\IotAPP\IotAPP\bin\Debug\IotAPP.application
+D:\jiangge proj\Latest\IotAPP\IotAPP\obj\Debug\IotAPP.exe.manifest
+D:\jiangge proj\Latest\IotAPP\IotAPP\obj\Debug\IotAPP.application
+D:\jiangge proj\Latest\IotAPP\IotAPP\obj\Debug\IotAPP.Child_verify.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.003\IotAPP\IotAPP\bin\Debug\IotAPP.exe.config
+D:\jiangge proj\APP-Folder\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.exe
+D:\jiangge proj\APP-Folder\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.pdb
+D:\jiangge proj\APP-Folder\IoTDev-v0.003\IotAPP\IotAPP\bin\Debug\IotAPP.exe.manifest
+D:\jiangge proj\APP-Folder\IoTDev-v0.003\IotAPP\IotAPP\bin\Debug\IotAPP.application
+D:\jiangge proj\APP-Folder\IoTDev-v0.003\IotAPP\IotAPP\bin\Debug\IotAPP.exe
+D:\jiangge proj\APP-Folder\IoTDev-v0.003\IotAPP\IotAPP\bin\Debug\IotAPP.pdb
+D:\jiangge proj\APP-Folder\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.csprojResolveAssemblyReference.cache
+D:\jiangge proj\APP-Folder\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Child_charts.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Child_history.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Child_home.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Child_settings.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Child_verify.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Main.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Properties.Resources.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.csproj.GenerateResource.Cache
+D:\jiangge proj\APP-Folder\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.exe.manifest
+D:\jiangge proj\APP-Folder\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.application
+D:\jiangge proj\APP-Folder\IoTDev-v0.003_backup\IotAPP\IotAPP\bin\Debug\IotAPP.exe.config
+D:\jiangge proj\APP-Folder\IoTDev-v0.003_backup\IotAPP\IotAPP\obj\Debug\IotAPP.exe
+D:\jiangge proj\APP-Folder\IoTDev-v0.003_backup\IotAPP\IotAPP\obj\Debug\IotAPP.pdb
+D:\jiangge proj\APP-Folder\IoTDev-v0.003_backup\IotAPP\IotAPP\bin\Debug\IotAPP.exe.manifest
+D:\jiangge proj\APP-Folder\IoTDev-v0.003_backup\IotAPP\IotAPP\bin\Debug\IotAPP.application
+D:\jiangge proj\APP-Folder\IoTDev-v0.003_backup\IotAPP\IotAPP\bin\Debug\IotAPP.exe
+D:\jiangge proj\APP-Folder\IoTDev-v0.003_backup\IotAPP\IotAPP\bin\Debug\IotAPP.pdb
+D:\jiangge proj\APP-Folder\IoTDev-v0.003_backup\IotAPP\IotAPP\obj\Debug\IotAPP.csprojResolveAssemblyReference.cache
+D:\jiangge proj\APP-Folder\IoTDev-v0.003_backup\IotAPP\IotAPP\obj\Debug\IotAPP.Child_charts.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.003_backup\IotAPP\IotAPP\obj\Debug\IotAPP.Child_history.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.003_backup\IotAPP\IotAPP\obj\Debug\IotAPP.Child_home.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.003_backup\IotAPP\IotAPP\obj\Debug\IotAPP.Child_settings.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.003_backup\IotAPP\IotAPP\obj\Debug\IotAPP.Child_verify.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.003_backup\IotAPP\IotAPP\obj\Debug\IotAPP.Main.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.003_backup\IotAPP\IotAPP\obj\Debug\IotAPP.Properties.Resources.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.003_backup\IotAPP\IotAPP\obj\Debug\IotAPP.csproj.GenerateResource.Cache
+D:\jiangge proj\APP-Folder\IoTDev-v0.003_backup\IotAPP\IotAPP\obj\Debug\IotAPP.exe.manifest
+D:\jiangge proj\APP-Folder\IoTDev-v0.003_backup\IotAPP\IotAPP\obj\Debug\IotAPP.application
+D:\jiangge proj\APP-Folder\IoTDev-v0.003\IoTDev-v0.003_backup\IotAPP\IotAPP\bin\Debug\IotAPP.exe.config
+D:\jiangge proj\APP-Folder\IoTDev-v0.003\IoTDev-v0.003_backup\IotAPP\IotAPP\obj\Debug\IotAPP.exe
+D:\jiangge proj\APP-Folder\IoTDev-v0.003\IoTDev-v0.003_backup\IotAPP\IotAPP\obj\Debug\IotAPP.pdb
+D:\jiangge proj\APP-Folder\IoTDev-v0.003\IoTDev-v0.003_backup\IotAPP\IotAPP\bin\Debug\IotAPP.exe.manifest
+D:\jiangge proj\APP-Folder\IoTDev-v0.003\IoTDev-v0.003_backup\IotAPP\IotAPP\bin\Debug\IotAPP.application
+D:\jiangge proj\APP-Folder\IoTDev-v0.003\IoTDev-v0.003_backup\IotAPP\IotAPP\bin\Debug\IotAPP.exe
+D:\jiangge proj\APP-Folder\IoTDev-v0.003\IoTDev-v0.003_backup\IotAPP\IotAPP\bin\Debug\IotAPP.pdb
+D:\jiangge proj\APP-Folder\IoTDev-v0.003\IoTDev-v0.003_backup\IotAPP\IotAPP\obj\Debug\IotAPP.csprojResolveAssemblyReference.cache
+D:\jiangge proj\APP-Folder\IoTDev-v0.003\IoTDev-v0.003_backup\IotAPP\IotAPP\obj\Debug\IotAPP.Child_charts.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.003\IoTDev-v0.003_backup\IotAPP\IotAPP\obj\Debug\IotAPP.Child_history.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.003\IoTDev-v0.003_backup\IotAPP\IotAPP\obj\Debug\IotAPP.Child_home.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.003\IoTDev-v0.003_backup\IotAPP\IotAPP\obj\Debug\IotAPP.Child_settings.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.003\IoTDev-v0.003_backup\IotAPP\IotAPP\obj\Debug\IotAPP.Child_verify.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.003\IoTDev-v0.003_backup\IotAPP\IotAPP\obj\Debug\IotAPP.Main.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.003\IoTDev-v0.003_backup\IotAPP\IotAPP\obj\Debug\IotAPP.Properties.Resources.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.003\IoTDev-v0.003_backup\IotAPP\IotAPP\obj\Debug\IotAPP.csproj.GenerateResource.Cache
+D:\jiangge proj\APP-Folder\IoTDev-v0.003\IoTDev-v0.003_backup\IotAPP\IotAPP\obj\Debug\IotAPP.exe.manifest
+D:\jiangge proj\APP-Folder\IoTDev-v0.003\IoTDev-v0.003_backup\IotAPP\IotAPP\obj\Debug\IotAPP.application
+D:\jiangge proj\APP-Folder\ttr\IoTDev-v0.003\IotAPP\IotAPP\bin\Debug\IotAPP.exe.config
+D:\jiangge proj\APP-Folder\ttr\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.exe
+D:\jiangge proj\APP-Folder\ttr\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.pdb
+D:\jiangge proj\APP-Folder\ttr\IoTDev-v0.003\IotAPP\IotAPP\bin\Debug\IotAPP.exe.manifest
+D:\jiangge proj\APP-Folder\ttr\IoTDev-v0.003\IotAPP\IotAPP\bin\Debug\IotAPP.application
+D:\jiangge proj\APP-Folder\ttr\IoTDev-v0.003\IotAPP\IotAPP\bin\Debug\IotAPP.exe
+D:\jiangge proj\APP-Folder\ttr\IoTDev-v0.003\IotAPP\IotAPP\bin\Debug\IotAPP.pdb
+D:\jiangge proj\APP-Folder\ttr\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.csprojResolveAssemblyReference.cache
+D:\jiangge proj\APP-Folder\ttr\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Child_charts.resources
+D:\jiangge proj\APP-Folder\ttr\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Child_history.resources
+D:\jiangge proj\APP-Folder\ttr\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Child_home.resources
+D:\jiangge proj\APP-Folder\ttr\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Child_settings.resources
+D:\jiangge proj\APP-Folder\ttr\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Child_verify.resources
+D:\jiangge proj\APP-Folder\ttr\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Main.resources
+D:\jiangge proj\APP-Folder\ttr\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Properties.Resources.resources
+D:\jiangge proj\APP-Folder\ttr\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.csproj.GenerateResource.Cache
+D:\jiangge proj\APP-Folder\ttr\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.exe.manifest
+D:\jiangge proj\APP-Folder\ttr\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.application
+C:\BOD\APP-Folder\IoTDev-v0.003\IotAPP\IotAPP\bin\Debug\IotAPP.exe.config
+C:\BOD\APP-Folder\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.exe
+C:\BOD\APP-Folder\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.pdb
+C:\BOD\APP-Folder\IoTDev-v0.003\IotAPP\IotAPP\bin\Debug\IotAPP.exe.manifest
+C:\BOD\APP-Folder\IoTDev-v0.003\IotAPP\IotAPP\bin\Debug\IotAPP.application
+C:\BOD\APP-Folder\IoTDev-v0.003\IotAPP\IotAPP\bin\Debug\IotAPP.exe
+C:\BOD\APP-Folder\IoTDev-v0.003\IotAPP\IotAPP\bin\Debug\IotAPP.pdb
+C:\BOD\APP-Folder\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.csprojResolveAssemblyReference.cache
+C:\BOD\APP-Folder\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Child_charts.resources
+C:\BOD\APP-Folder\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Child_history.resources
+C:\BOD\APP-Folder\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Child_home.resources
+C:\BOD\APP-Folder\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Child_settings.resources
+C:\BOD\APP-Folder\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Child_verify.resources
+C:\BOD\APP-Folder\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Main.resources
+C:\BOD\APP-Folder\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Properties.Resources.resources
+C:\BOD\APP-Folder\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.csproj.GenerateResource.Cache
+C:\BOD\APP-Folder\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.exe.manifest
+C:\BOD\APP-Folder\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.application
+C:\BOD\APP-Folder\trash\testing\IoTDev-v0.003\IotAPP\IotAPP\bin\Debug\IotAPP.exe.config
+C:\BOD\APP-Folder\trash\testing\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.exe
+C:\BOD\APP-Folder\trash\testing\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.pdb
+C:\BOD\APP-Folder\trash\testing\IoTDev-v0.003\IotAPP\IotAPP\bin\Debug\IotAPP.exe.manifest
+C:\BOD\APP-Folder\trash\testing\IoTDev-v0.003\IotAPP\IotAPP\bin\Debug\IotAPP.application
+C:\BOD\APP-Folder\trash\testing\IoTDev-v0.003\IotAPP\IotAPP\bin\Debug\IotAPP.exe
+C:\BOD\APP-Folder\trash\testing\IoTDev-v0.003\IotAPP\IotAPP\bin\Debug\IotAPP.pdb
+C:\BOD\APP-Folder\trash\testing\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.csprojResolveAssemblyReference.cache
+C:\BOD\APP-Folder\trash\testing\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Child_charts.resources
+C:\BOD\APP-Folder\trash\testing\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Child_history.resources
+C:\BOD\APP-Folder\trash\testing\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Child_home.resources
+C:\BOD\APP-Folder\trash\testing\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Child_settings.resources
+C:\BOD\APP-Folder\trash\testing\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Child_verify.resources
+C:\BOD\APP-Folder\trash\testing\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Main.resources
+C:\BOD\APP-Folder\trash\testing\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Properties.Resources.resources
+C:\BOD\APP-Folder\trash\testing\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.csproj.GenerateResource.Cache
+C:\BOD\APP-Folder\trash\testing\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.exe.manifest
+C:\BOD\APP-Folder\trash\testing\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.application
+C:\BOD\APP-Folder\trash\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\bin\Debug\IotAPP.exe.config
+C:\BOD\APP-Folder\trash\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.exe
+C:\BOD\APP-Folder\trash\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.pdb
+D:\jiangge proj\APP-Folder\IoTDev-v0.004\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\bin\Debug\IotAPP.exe.config
+D:\jiangge proj\APP-Folder\IoTDev-v0.004\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.exe
+D:\jiangge proj\APP-Folder\IoTDev-v0.004\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.pdb
+D:\jiangge proj\APP-Folder\IoTDev-v0.004\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\bin\Debug\IotAPP.exe.manifest
+D:\jiangge proj\APP-Folder\IoTDev-v0.004\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\bin\Debug\IotAPP.application
+D:\jiangge proj\APP-Folder\IoTDev-v0.004\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\bin\Debug\IotAPP.exe
+D:\jiangge proj\APP-Folder\IoTDev-v0.004\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\bin\Debug\IotAPP.pdb
+D:\jiangge proj\APP-Folder\IoTDev-v0.004\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Child_charts.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.004\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Child_history.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.004\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Child_home.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.004\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Child_settings.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.004\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Child_verify.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.004\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Main.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.004\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Properties.Resources.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.004\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.csproj.GenerateResource.Cache
+D:\jiangge proj\APP-Folder\IoTDev-v0.004\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.exe.manifest
+D:\jiangge proj\APP-Folder\IoTDev-v0.004\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.application
+D:\jiangge proj\APP-Folder\IoTDev-v0.004\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Child_logs.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.004\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.csprojResolveAssemblyReference.cache
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\bin\Debug\IotAPP.exe.config
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.exe
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.pdb
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.csprojResolveAssemblyReference.cache
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Child_charts.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Child_history.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Child_home.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Child_logs.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Child_settings.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Child_verify.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Main.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.Properties.Resources.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.csproj.GenerateResource.Cache
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\bin\Debug\IotAPP.exe.manifest
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\bin\Debug\IotAPP.application
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\bin\Debug\IotAPP.exe
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\bin\Debug\IotAPP.pdb
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.exe.manifest
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\testing-this one\IoTDev-v0.003\IotAPP\IotAPP\obj\Debug\IotAPP.application
+D:\jiangge proj\APP-Folder\IoTDev-v0.005 - backup\IotAPP\IotAPP\bin\Debug\IotAPP.exe.config
+D:\jiangge proj\APP-Folder\IoTDev-v0.005 - backup\IotAPP\IotAPP\obj\Debug\IotAPP.exe
+D:\jiangge proj\APP-Folder\IoTDev-v0.005 - backup\IotAPP\IotAPP\obj\Debug\IotAPP.pdb
+D:\jiangge proj\APP-Folder\IoTDev-v0.005 - backup\IotAPP\IotAPP\bin\Debug\IotAPP.exe.manifest
+D:\jiangge proj\APP-Folder\IoTDev-v0.005 - backup\IotAPP\IotAPP\bin\Debug\IotAPP.application
+D:\jiangge proj\APP-Folder\IoTDev-v0.005 - backup\IotAPP\IotAPP\bin\Debug\IotAPP.exe
+D:\jiangge proj\APP-Folder\IoTDev-v0.005 - backup\IotAPP\IotAPP\bin\Debug\IotAPP.pdb
+D:\jiangge proj\APP-Folder\IoTDev-v0.005 - backup\IotAPP\IotAPP\obj\Debug\IotAPP.csprojResolveAssemblyReference.cache
+D:\jiangge proj\APP-Folder\IoTDev-v0.005 - backup\IotAPP\IotAPP\obj\Debug\IotAPP.Child_charts.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.005 - backup\IotAPP\IotAPP\obj\Debug\IotAPP.Child_history.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.005 - backup\IotAPP\IotAPP\obj\Debug\IotAPP.Child_home.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.005 - backup\IotAPP\IotAPP\obj\Debug\IotAPP.Child_logs.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.005 - backup\IotAPP\IotAPP\obj\Debug\IotAPP.Child_settings.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.005 - backup\IotAPP\IotAPP\obj\Debug\IotAPP.Child_verify.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.005 - backup\IotAPP\IotAPP\obj\Debug\IotAPP.Main.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.005 - backup\IotAPP\IotAPP\obj\Debug\IotAPP.Properties.Resources.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.005 - backup\IotAPP\IotAPP\obj\Debug\IotAPP.csproj.GenerateResource.Cache
+D:\jiangge proj\APP-Folder\IoTDev-v0.005 - backup\IotAPP\IotAPP\obj\Debug\IotAPP.exe.manifest
+D:\jiangge proj\APP-Folder\IoTDev-v0.005 - backup\IotAPP\IotAPP\obj\Debug\IotAPP.application
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\IotAPP\IotAPP\bin\Debug\IotAPP.exe.config
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\IotAPP\IotAPP\obj\Debug\IotAPP.exe
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\IotAPP\IotAPP\obj\Debug\IotAPP.pdb
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\IotAPP\IotAPP\bin\Debug\IotAPP.exe.manifest
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\IotAPP\IotAPP\bin\Debug\IotAPP.application
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\IotAPP\IotAPP\bin\Debug\IotAPP.exe
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\IotAPP\IotAPP\bin\Debug\IotAPP.pdb
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\IotAPP\IotAPP\obj\Debug\IotAPP.csprojResolveAssemblyReference.cache
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\IotAPP\IotAPP\obj\Debug\IotAPP.Child_charts.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\IotAPP\IotAPP\obj\Debug\IotAPP.Child_history.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\IotAPP\IotAPP\obj\Debug\IotAPP.Child_home.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\IotAPP\IotAPP\obj\Debug\IotAPP.Child_logs.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\IotAPP\IotAPP\obj\Debug\IotAPP.Child_settings.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\IotAPP\IotAPP\obj\Debug\IotAPP.Child_verify.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\IotAPP\IotAPP\obj\Debug\IotAPP.Main.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\IotAPP\IotAPP\obj\Debug\IotAPP.Properties.Resources.resources
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\IotAPP\IotAPP\obj\Debug\IotAPP.csproj.GenerateResource.Cache
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\IotAPP\IotAPP\obj\Debug\IotAPP.exe.manifest
+D:\jiangge proj\APP-Folder\IoTDev-v0.005\IotAPP\IotAPP\obj\Debug\IotAPP.application
